@@ -1,0 +1,14 @@
+C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.exe
+C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.deps.json
+C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.runtimeconfig.json
+C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.dll
+C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.pdb
+C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.AssemblyInfo.cs
+C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.dll
+C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\obj\Debug\net9.0\refint\ExemploExplorando.dll
+C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.pdb
+C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.genruntimeconfig.cache
+C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\obj\Debug\net9.0\ref\ExemploExplorando.dll
