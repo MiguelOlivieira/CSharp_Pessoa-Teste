@@ -10,7 +10,7 @@ namespace ExemploExplorando.models
         
 
         //campo _nome (campos não possuem set ou get)
-        private string _nome;
+        private  string _nome;
         
         //campo _idade
         private int _idade;
@@ -27,6 +27,8 @@ namespace ExemploExplorando.models
                 }
 
                 _nome = value; //propriedade private recebe o valor de Nome 
+
+               
             } 
          }
 
@@ -34,7 +36,8 @@ namespace ExemploExplorando.models
         public string Sobrenome { get; set; }
 
         //Propriedade de leitura (somente get)
-         public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
+         public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper(); 
+
         public int Idade { 
             
             get => _idade; //Por ser um numero, não vou fazer nenhum tratamento especial no get

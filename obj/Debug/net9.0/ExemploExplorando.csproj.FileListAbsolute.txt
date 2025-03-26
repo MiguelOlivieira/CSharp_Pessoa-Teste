@@ -12,3 +12,4 @@ C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\obj\Debug
 C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.pdb
 C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.genruntimeconfig.cache
 C:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\obj\Debug\net9.0\ref\ExemploExplorando.dll
+c:\Users\miguel\OneDrive\Desktop\programaçao\csharp\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.sourcelink.json
